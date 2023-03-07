@@ -1,6 +1,5 @@
 # Machine-learning-portfolio
-This is my Machine Learning Portfolio, which showcases my data analysis and machine learning projects.These projects I have done for demonstation my skills
-,for learning and as a hobby.
+This is my Machine Learning Portfolio, which showcases my data analysis and machine learning projects.These projects I have done for demonstation of my skills,for learning and as a hobby.
 
 Table of Contents
 
