@@ -9,4 +9,4 @@ Project 2: MNIST digit recognition using cnn.
 
 Project 3: Book recommender system.
 
-Project 4: Zomato data analysis and visualization
+Project 4: Zomato data analysis and visualization using python libraries.
