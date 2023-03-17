@@ -5,7 +5,7 @@ Table of Contents
 
 Project 1: Melbourne Housing price prediction using different regression algorithms.
 
-Project 2: MNIST digit recognition using cnn.
+Project 2: MNIST digit recognition using convolutional neural network with tensorflow and keras.
 
 Project 3: Book recommender system.
 
