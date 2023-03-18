@@ -10,3 +10,5 @@ Project 2: MNIST digit recognition using convolutional neural network with tenso
 Project 3: Book recommender system.
 
 Project 4: Zomato data analysis and visualization using python libraries.
+
+Project 5: Sales data analysis using python libraries.
