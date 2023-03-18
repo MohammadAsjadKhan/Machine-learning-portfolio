@@ -2,7 +2,7 @@
 This is my Machine Learning Portfolio, which showcases my data analysis and machine learning projects.These projects I have done for demonstation of my skills,for learning and as a hobby.
 
 
-![alt text](https://github.com/MohammadAsjadKhan/Machine-learning-portfolio/images/ml_img.jpeg?raw=true)
+!["Machine Learning"](https://github.com/MohammadAsjadKhan/Machine-learning-portfolio/images/ml_img.jpeg?raw=true)
 
 Table of Contents
 
