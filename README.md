@@ -15,3 +15,5 @@ Project 4: Zomato data analysis and visualization using python libraries.
 Project 5: Sales data analysis using python libraries.
 
 Project 6: Mall customer segmentation using k-means clustering.
+
+Project 7: Email/sms spam classification using different classification algorithms.
