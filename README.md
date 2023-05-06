@@ -17,3 +17,5 @@ Project 5: Sales data analysis using python libraries.
 Project 6: Mall customer segmentation using k-means clustering.
 
 Project 7: Email/sms spam classification using different classification algorithms.
+
+Project 8: Face recognition using face recognition library.
